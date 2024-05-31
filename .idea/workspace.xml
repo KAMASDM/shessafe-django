@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8ffd1560-fa8e-4fa5-9ee0-e10873233a41" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sheissafe.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/manage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/health_audio/health_word_audio.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/health_audio/health_word_audio_8NK7Xyt.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/health_audio/health_word_audio_r3aayGJ.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/threat_audio/threat_word_audio.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/threat_audio/threat_word_audio_cSiP3oV.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/personalprofile/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/personalprofile/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/personalprofile/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/personalprofile/migrations/0001_initial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/personalprofile/migrations/0002_initial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/personalprofile/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/personalprofile/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/personalprofile/serializers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/personalprofile/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/personalprofile/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/personalprofile/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/safetyprofile/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/safetyprofile/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/safetyprofile/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/safetyprofile/migrations/0001_initial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/safetyprofile/migrations/0002_initial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/safetyprofile/migrations/0003_alter_safetyprofile_ambulance_contact_and_more.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/safetyprofile/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/safetyprofile/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/safetyprofile/serializers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/safetyprofile/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/safetyprofile/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/safetyprofile/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shessafe/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shessafe/asgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shessafe/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shessafe/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shessafe/wsgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/userregistration/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/userregistration/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/userregistration/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/userregistration/migrations/0001_initial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/userregistration/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/userregistration/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/userregistration/serializers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/userregistration/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/userregistration/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/userregistration/views.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2h8KGZ5yXU87Hsv8YccKWmL2akC" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "dart.analysis.tool.window.visible": "false",
+    "git-widget-placeholder": "master"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-babbdf50b680-746f403e7f0c-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-241.15989.155" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8ffd1560-fa8e-4fa5-9ee0-e10873233a41" name="Changes" comment="" />
+      <created>1716970169067</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1716970169067</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
